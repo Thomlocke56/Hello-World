@@ -1,7 +1,7 @@
 # Table of Contents
 - [GENERAL OVERVIEW](#GENERAL%20OVERVIEW)
-  * [Purpose](##Purpose)
-  * [Scope](##Scope)
+  * [Purpose](#Purpose)
+  * [Scope](#Scope)
   * [Definitions](##Definitions)
   * [Reimbursememt Policy](##Reimbursement%20Policy)
   * [Responsibility](##Responsibility)
