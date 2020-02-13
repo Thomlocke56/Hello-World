@@ -1,4 +1,22 @@
 # Table of Contents
+- [GENERAL OVERVIEW](#GENERAL%20OVERVIEW)
+  * [Purpose](##Purpose)
+  * [Scope](##Scope)
+  * [Definitions](##Definitions)
+  * [Reimbursememt Policy](##Reimbursement%20Policy)
+  * [Responsibility](##Responsibility)
+  * [Exceptions](##Exceptions%20to%20Expense%20Policy)
+  * [Non-compliance](##Non-compliance)
+  * [Issues](##Issues)
+   
+- [The Expense Report](#The%20Expense%20Report)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+
+<!-- toc -->
 
 # GENERAL OVERVIEW 
 ## Purpose 
