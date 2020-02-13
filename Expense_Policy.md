@@ -480,7 +480,7 @@ This Policy is subject to modification or revision in part or in its entirety to
 
 This Policy contains important information concerning business and travel expenses. Please read it carefully then sign and return. 
 
-                          **Acknowledgment of Receipt and Consent to Abide**
+**Acknowledgment of Receipt and Consent to Abide**
 
 I, the undersigned, acknowledge that I have received a copy of Strata Identity, Inc.’s (“Company”) Business and Travel Expense Policy for Personnel (“Policy”). I understand that this Policy replaces any, and all, prior verbal and written communications regarding the Company’s expense policies, procedures, and appeal processes. I further concede that no further expenses will be reimbursed until I return this form completed. 
 
