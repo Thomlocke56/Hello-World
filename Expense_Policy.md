@@ -2,7 +2,7 @@
 
 # GENERAL OVERVIEW 
 ## Purpose 
-The purpose of the Business and Travel Expense Policy ("Policy") is to provide specific policies and procedures regarding Strata Identity, Inc. ("Strata" or "Company") business and travel expenses. This Policy applies to expenses that are directly paid by the Company as well as expenses reimbursed to individuals incurring them on behalf of the Company. This Policy is effective as of January 1, 2013. 
+The purpose of the Business and Travel Expense Policy ("Policy") is to provide specific policies and procedures regarding Strata Identity, Inc. ("Strata" or "Company") business and travel expenses. This Policy applies to expenses that are directly paid by the Company as well as expenses reimbursed to individuals incurring them on behalf of the Company. This Policy is effective as of January 1, 2020. 
 ## Scope 
 This Policy applies to all Strata personnel, including full-time, part-time, permanent, temporary, and contracted persons, seeking reimbursement from Strata. 
 ## Definitions 
