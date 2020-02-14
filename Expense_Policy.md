@@ -16,7 +16,7 @@
   
 - [EXPENSE REPORT PROCESS](#EXPENSE-REPORT-PROCESS)
   * [Timing of Submissions](#Timing-of-Submissions)
-  * [Expense Approval/Denial Process](#Expense-Approval/Denial-Process)
+  * [Expense Approval Denial Process](#Expense-Approval-Denial-Process)
   * [Expense Reimbursement Policy](#Expense-Reimbursement-Policy)
   
 - [SPECIFIC POLICIES](#SPECIFIC-POLICIES) 
@@ -110,7 +110,7 @@ When required by this Policy, a written authorization must be obtained from the 
 ## Timing of Submissions 
 Expense Report submission is due within the sixty days following completion of the trip or incurrence of the charge. Strata recommends weekly submissions but has no obligation of payment if the Expense Report is submitted more than sixty calendar days after the date charges were incurred. 
 
-## Expense Approval/Denial Process 
+## Expense Approval Denial Process 
 
 The Expense Reimbursement Form and all required documents are to be submitted to the employee’s MGR within sixty days of incurring the business-related charge. The MGR will approve the submission within five business days and forward all documentation to the relevant Operations personnel for processing.
 
