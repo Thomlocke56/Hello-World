@@ -3,9 +3,9 @@
   * [Purpose](#Purpose)
   * [Scope](#Scope)
   * [Definitions](#Definitions)
-  * [Reimbursememt Policy](#Reimbursement%20Policy)
+  * [Reimbursememt Policy](#Reimbursement-Policy)
   * [Responsibility](#Responsibility)
-  * [Exceptions](#Exceptions%20to%20Expense%20Policy)
+  * [Exceptions](#Exceptions-to-Expense-Policy)
   * [Non-compliance](#Non-compliance)
   * [Issues](#Issues)
    
