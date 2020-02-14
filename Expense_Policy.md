@@ -31,7 +31,21 @@
     + [Taxi and Ride Share Use](#Taxi-and-Ride-Share-Use)
     + [Personal Vehicle](#Personal-Vehicle)
     + [Rental Vehicle](#Rental-Vehicle)
+    + [Violation of Law](#Violation-of-Law)
+    + [Air Travel](#Air-Travel)
+  * [Lodging](#Lodging)
+    + [Elgibility](#Elgibility)
+    + [Length of Stay](#Length-of-Stay)
+    + [Reimbursement Rates](#Reimbursement-Rates)
+    + [Lodging Documentary Evidence](#Lodging-Documentary-Evidence)
+    + [Internet Access](#Internet-Access)
+    + [In-room Phone Use](#In--room-Phone-Use)
     
+    + [Rental Vehicle](#Rental-Vehicle)
+    + [Violation of Law](#Violation-of-Law)
+    + [Air Travel](#Air-Travel)
+  
+  
   * [International Travel](#International-Travel)
   * [Conversion](#Conversion)
     + [Sub-sub-heading](#sub-sub-heading-1)
@@ -282,7 +296,7 @@ An employee’s lodging may not exceed five days without prior written authoriza
 
 Strata will reimburse amounts up to, but not exceeding, the per diem rates set forth by the U.S. General Services Administration (“GSA”), for applicable jurisdiction and fiscal year. Amounts in excess of these rates (not including associated taxes and fees) shall be at the employee’s personal expense. GSA’s published rates are available through www.gsa.gov, or by request from the Operations Department. 
 
-### Documentary Evidence 
+### Lodging Documentary Evidence 
 
 Receipts for lodging should include the name of the establishment, location, dates of stay and type of room rented. The entire detail bill must be included with the Expense Report submission. 
 Any expenses included on the hotel bill (e.g., meals, phone calls, internet access, copies, etc.) must be separately identified in the appropriate sections of the Expense Report. 
