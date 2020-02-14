@@ -22,8 +22,23 @@
 - [SPECIFIC POLICIES](#SPECIFIC-POLICIES) 
   * [Travel Arrangements](#Travel-Arrangements)  
   * [International Travel](#International-Travel)
-  * [Sub-heading](#sub-heading-1)
+  * [Conversion](#Conversion)
+  * [Transportation](#Transportation)
+    + [Cost Efficiency](#Cost-Efficiency)
+    + [Airport Parking](#Airport-Parking)
+    + [Public Transportation](#Public-Transportation)
+    + [Commercial Bus and Rail Travel](#Commercial-Bus-and-Rail-Travel)
+    + [Taxi and Ride Share Use](#Taxi-and-Ride-Share-Use)
+    + [Personal Vehicle](#Personal-Vehicle)
+    + [Rental Vehicle](#Rental-Vehicle)
+    
+  * [International Travel](#International-Travel)
+  * [Conversion](#Conversion)
     + [Sub-sub-heading](#sub-sub-heading-1)
+
+
+
+
 - [Heading](#heading-2)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
@@ -153,7 +168,7 @@ The cost of necessary public transportation is considered reimbursable. All publ
 
 Travel by commercial bus or rail is considered reimbursable. The class of travel for each is expected to be the lowest-priced coach fare available. 
 
-### Taxi/Ride Share Use 
+### Taxi and Ride Share Use 
 
 A taxi/Ride Share may be used for travel to and from the airport and during business trips. All taxi/Ride Share charges must be presented with a valid receipt. 
 
