@@ -17,11 +17,11 @@
 - [EXPENSE REPORT PROCESS](#EXPENSE-REPORT-PROCESS)
   * [Timing of Submissions](#Timing-of-Submissions)
   * [Expense Approval/Denial Process](#Expense-Approval/Denial-Process)
-  * [Reimbursement Policy](#Reimbursement-Policy)
+  * [Expense Reimbursement Policy](#Expense-Reimbursement-Policy)
   
 - [SPECIFIC POLICIES](#SPECIFIC-POLICIES) 
-  * [Documentary Evidence](#Documentary-Evidence)  
-  * [Reimbursememt Policy](#Reimbursement-Policy)
+  * [Travel Arrangements](#Travel-Arrangements)  
+  * [International Travel](#International-Trave)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
@@ -118,7 +118,7 @@ If either the MGR or Operations Department rejects the Expense Report, written n
 
 Expense Reports lacking sufficient documentation will not move forward in the approvals process until further documentation is provided. Items that do not comply with the Policy will be adjusted without notification and shall not be reimbursed. 
 
-## Reimbursement Policy 
+## Expense Reimbursement Policy  
 Reimbursement will be made to the employee after the Expense Report is reviewed and approved by the MGR and Operations Department. The reimbursement check will be issued within two weeks of the final Expense Report approval. 
 
 # SPECIFIC POLICIES
