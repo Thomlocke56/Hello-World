@@ -51,22 +51,35 @@
     + [Personal Meals for a One Day Trip](#Personal-Meals-for-a-One-Day-Trip)
     + [Business Meals with Other Strata Personnel](#Busines-Meals-with-Other-Strata-Personnel)
   * [Entertainment Expenses](#Entertainment-Expenses)
-    + [Lodging Documentary Evidence](#Lodging-Documentary-Evidence)
-    + [Internet Access](#Internet-Access)
-    + [In Room Phone Use](#In-Room-Phone-Use)
-    + [Laundry Service](#Laundry-Service)
-    + [Housekeeping and Maid Services](#Housekeeping-and-Maid-Services)
-    + [Ancillary Charges](#Ancillary-Charges)
-    + [Hotel Cancilation](#Hotel-Cancilation)
-  * [Conversion](#Conversion)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-
-
-
-
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+    + [Alcohol](#Alcohol)
+    + [Entertainment Transporation](#Entertainment-Transporation)
+  * [Gratuities](#Gratuities)
+  * [Combining Personal Travel with Company Business Travel](#Combining-Personal-Travel-with-Company-Business-Travel)
+    + [Transportation Costs](#Transportation-Costs)
+    + [Other Costs](#Other-Costs)
+  * [Spouse or Companion Travel](#Spouse-or-Companion-Travel)
+  * [Parking](#Parking)
+  * [Tolls](#Tolls)
+  * [Mobile Device Plan](#Mobile-Device-Plan)
+    + [Reimbrusement Criteria](#Reimbrusement-Criteria)
+    + [Documentary Evidence](#Documentary-Evidence)
+    + [Amounts Eligible for Reimbursement](#Amounts-Eligible-for-Reimbursement)
+    + [Amounts Not Eligible for Reimbursement](#Amounts-Noot-Eligible-for-Reimbursement)
+    + [Contractual Responsibility](#Contractual-Responsibility)
+  * [Home Internet Plan](#Home-Internet-Plan)
+  * [Home Office](#Home-Office)
+  * [Commuting Expenses](#Commuting-Expenses)
+  * [Books and Subscriptions](#Books-and-Subscriptions)
+  * [Printing](#Printing)
+  * [Shipping](#Shipping)
+  * [Purchase of Equipment](#Purchase-of-Equipment)
+  * [Professional Certifications Dues and External Vendor Training](#Professional-Certifications-Dues-and-External-Vendor-Training)
+  * [Gift Matching](#Gift-Matching)
+    + [Process](#Process)
+    + [Ineligibility](#Ineligibility)
+- [NON REIMBURSABLE COSTS](#NON-REIMBURSABLE-COSTS)
+- [MODIFICATIONS](#MODIFICATIONS)
+- [ACKNOWLEDGMENT OF RECEIPT AND CONSENT TO ABIDE](#ACKNOWLEDGMENT-OF-RECEIPT-AND-CONSENT-TO-ABIDE)
 
 <!-- toc -->
 
@@ -367,7 +380,7 @@ All extraordinary business meals or entertainment expenses that are expected to 
 
 The use of alcohol for business entertainment purposes should be kept to a minimum. In the event an employee chooses to consume alcohol in connection with a business function, the Company expects that employees will act responsibly and avoid excess. Strata accepts no liability for an employee’s actions or any claims arising out of or in connection with the consumption of alcohol either during or after a business function. 
 
-### Transportation 
+### Entertainment Transportation 
 
 If an employee has any concerns that he/she is not capable of safely driving after consuming alcohol at a business related event, Strata will reimburse the cost of alternative transportation to ensure that the employee does not place themselves or others in danger. Any employee, who is arrested and convicted of Driving Under the Influence, while performing Company business or returning from a business function is subject to disciplinary action up to and including termination. 
 
@@ -389,7 +402,7 @@ Any additional expenses incurred by the employee for deviating from the normal, 
 
 The Company will only reimburse business expenses incurred during the trip. Reimbursements for meals, lodging, and other expenses in compliance with this Policy will be limited to those incurred during the business portion of the trip. Any costs incurred outside of the business activities will be at the employee’s personal expense. 
 
-## Spouse/Companion Travel 
+## Spouse or Companion Travel 
 
 Strata will not reimburse travel or entertainment expenses incurred by, or on behalf of, an employee’s spouse or any other accompanying companion, human or animal. 
 
@@ -467,11 +480,11 @@ Most business-related copying and printing should be completed in office. Print 
 
 When required, the costs associated with packing and shipping of business materials will be considered for reimbursement. This does not include the shipment of luggage. 
 
-## Purchase of Equipment/Software/Hardware 
+## Purchase of Equipment 
 
 Any purchase of equipment, hardware, or software including antivirus subscriptions, must be approved, and purchased by the Operations Department. Requests should be sent to operations@Strata.com. 
 
-## Professional Certifications/Dues and External Vendor Training 
+## Professional Certifications Dues and External Vendor Training 
 
 Exams, training materials, annual dues, or similar expenses for external professional or industrial certifications are considered reimbursable with prior written authorization from the MGR and a member of Executive Management. 
 
@@ -511,11 +524,11 @@ Ineligible contributions are those that:
 
 Employees are required to convert all expenses to USD, within seven days of incurring the expense unless it is deemed impractical. Approved currency conversion websites include; Oanda.com, xe.com and x-rates.com. 
 
-# NON-REIMBURSEABLE COSTS 
+# NON REIMBURSABLE COSTS 
 
 These exclusions are examples and are not intended to represent all items for which Strata will not reimburse. 
 
-Non Reimbersable Item | Non Reimbersable Item 
+Non Reimbursable Item | Non Reimbursable Item 
 --- | ---
 	Airline advance seat assignments | 	Expenses not substantiated/approved in accordance with the Policy 
 	Airline clubs or auto club memberships | 	Baby-sitting 
@@ -542,7 +555,7 @@ Non Reimbersable Item | Non Reimbersable Item
 	Software and hardware | 	Souvenirs
 	Tips in excess of 20% and in addition to pre-applied gratuity | 
 
-# Modifications
+# MODIFICATIONS
 
 This Policy is subject to modification or revision in part or in its entirety to reflect changes in conditions subsequent to the effective date of this Policy.
 
