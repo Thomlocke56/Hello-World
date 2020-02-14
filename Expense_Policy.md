@@ -39,7 +39,7 @@
     + [Reimbursement Rates](#Reimbursement-Rates)
     + [Lodging Documentary Evidence](#Lodging-Documentary-Evidence)
     + [Internet Access](#Internet-Access)
-    + [In-room Phone Use](#In--room-Phone-Use)
+    + [In Room Phone Use](#In-Room-Phone-Use)
     
     + [Rental Vehicle](#Rental-Vehicle)
     + [Violation of Law](#Violation-of-Law)
@@ -305,7 +305,7 @@ Any expenses included on the hotel bill (e.g., meals, phone calls, internet acce
 
 There must be a strong business justification for incurring any cost for internet access in a hotel room. Requests for reimbursement of this type of charge must be accompanied by a detailed explanation regarding business need. 
 
-### In-room Phone Use 
+### In Room Phone Use 
 
 In-room phone charges are only permissible in emergencies. 
 
