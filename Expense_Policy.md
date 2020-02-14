@@ -1,4 +1,4 @@
-![alt text][logo]: https://github.com/Thomlocke56/Hello-World/Expense Policy.png
+![alt text][logo]: https://github.com/Thomlocke56/Hello-World/Expense_Policy.png
 
 # Table of Contents
 - [GENERAL OVERVIEW](#GENERAL-OVERVIEW)
