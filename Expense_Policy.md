@@ -9,7 +9,19 @@
   * [Non-compliance](#Non-compliance)
   * [Issues](#Issues)
    
-- [The Expense Report](#The%20Expense%20Report)
+- [THE EXPENSE REPORT](#THE-EXPENSE-REPORT)
+  * [Expense Reimbursement Form](#Expense-Reimbursement-Form)
+  * [Substantial Information](#Substantial-Information)
+  * [Documentary Evidence](#Documentary-Evidence)
+  
+- [EXPENSE REPORT PROCESS](#EXPENSE-REPORT-PROCESS)
+  * [Timing of Submissions](#Timing-of-Submissions)
+  * [Expense Approval/Denial Process](#Expense-Approval/Denial-Process)
+  * [Reimbursement Policy](#Reimbursement-Policy)
+  
+- [SPECIFIC POLICIES](#SPECIFIC-POLICIES) 
+  * [Documentary Evidence](#Documentary-Evidence)  
+  * [Reimbursememt Policy](#Reimbursement-Policy)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
