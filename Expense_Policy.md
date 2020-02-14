@@ -1,5 +1,5 @@
 # Table of Contents
-- [GENERAL OVERVIEW](#GENERAL%20OVERVIEW)
+- [GENERAL OVERVIEW](#GENERAL-OVERVIEW)
   * [Purpose](#Purpose)
   * [Scope](#Scope)
   * [Definitions](#Definitions)
