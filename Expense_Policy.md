@@ -21,7 +21,7 @@
   
 - [SPECIFIC POLICIES](#SPECIFIC-POLICIES) 
   * [Travel Arrangements](#Travel-Arrangements)  
-  * [International Travel](#International-Trave)
+  * [International Travel](#International-Travel)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
