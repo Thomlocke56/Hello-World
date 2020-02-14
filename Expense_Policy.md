@@ -48,7 +48,7 @@
     + [Private Home](#Private-Home) 
   * [Meals](#Meals)
     + [Personal Meals during Business Travel](#Personal-Meals-during-Business-Travel)
-    + [Personal Meals for a One Day Trip](#Personal Meals-for-a-One-Day-Trip)
+    + [Personal Meals for a One Day Trip](#Personal-Meals-for-a-One-Day-Trip)
     + [Business Meals with Other Strata Personnel](#Busines-Meals-with-Other-Strata-Personnel)
   * [Entertainment Expenses](#Entertainment-Expenses)
     + [Lodging Documentary Evidence](#Lodging-Documentary-Evidence)
