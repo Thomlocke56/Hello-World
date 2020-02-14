@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://github.com/Thomlocke56/Hello-World/Expense Policy.png
+
 # Table of Contents
 - [GENERAL OVERVIEW](#GENERAL-OVERVIEW)
   * [Purpose](#Purpose)
