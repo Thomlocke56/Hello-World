@@ -48,8 +48,9 @@
     + [Private Home](#Private-Home) 
   * [Meals](#Meals)
     + [Personal Meals during Business Travel](#Personal-Meals-during-Business-Travel)
-    + [Length of Stay](#Length-of-Stay)
-    + [Reimbursement Rates](#Reimbursement-Rates)
+    + [Personal Meals for a One Day Trip](#Personal Meals-for-a-One-Day-Trip)
+    + [Business Meals with Other Strata Personnel](#Busines-Meals-with-Other-Strata-Personnel)
+  * [Entertainment Expenses](#Entertainment-Expenses)
     + [Lodging Documentary Evidence](#Lodging-Documentary-Evidence)
     + [Internet Access](#Internet-Access)
     + [In Room Phone Use](#In-Room-Phone-Use)
@@ -349,7 +350,7 @@ While traveling for Company business, if an employee chooses to seek lodging wit
 
 Personal meals en route and at the business destination location are eligible for reimbursement. Personal meals are defined as meal expenses incurred by the traveler when dining alone on an out- of-town business trip. Employees are expected to spend $50.00 or less per day, inclusive of tax and gratuity. This includes all meals, beverages, and refreshments purchased during the day. Alcoholic beverages are not eligible for reimbursement. The suggested meal expenditures are $10.00 for breakfast, $15.00 for lunch and $25.00 for dinner. These amounts are guidelines and should not be considered a per diem. Meal receipts must include an itemization of food and drink purchased (a summary credit card receipt is not sufficient documentation). Multiple receipts for one meal should be listed separately. 
 
-### Personal Meals for a One-Day Trip 
+### Personal Meals for a One Day Trip 
 
 Meal expenses related to one-day business trips will be reimbursed upon substantiation of a valid business purpose. 
 
